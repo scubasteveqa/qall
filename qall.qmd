@@ -1,0 +1,33 @@
+---
+title: "QALL"
+format: revealjs
+editor: visual
+---
+
+## The problem....
+
+![](the_problem.png)
+
+No such file?? The app code should be correct and the file is there, but let's verify.
+
+## Code looks good to me
+
+![](app_code.png)
+
+Disclaimer: I didn't write the app code but it looks good to me??
+
+## Is the file there??
+
+![](dir_structure.png)
+
+Yup! Sure looks like it!!
+
+## What's next?
+
+We've ruled out that the issue is with the app code and the datafile is in the same directory as the application file.
+
+-   Is it the environment? Maybe?
+
+-   We should publish this app somewhere else to check?
+
+-   But where? Are there other Posit products to publish to??
