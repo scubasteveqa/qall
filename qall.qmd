@@ -8,13 +8,11 @@ editor: visual
 
 ![](the_problem.png)
 
-No such file?? The app code should be correct and the file is there, but let's verify.
+No such file?? Is the app code wrong? Or is the file missing?
 
 ## Code looks good to me
 
 ![](app_code.png)
-
-Disclaimer: I didn't write the app code but it looks good to me??
 
 ## Is the file there??
 
@@ -31,3 +29,31 @@ We've ruled out that the issue is with the app code and the datafile is in the s
 -   We should publish this app somewhere else to check?
 
 -   But where? Are there other Posit products to publish to??
+
+## Introducing Colorado and Posit Team Dedicated
+
+-   Colorado: <https://colorado.posit.co/>
+
+-   Posit Team Dedicated: <https://palm.ptd.posit.it/>
+
+## Colorado
+
+{{< video connect_pub_final.mp4 >}}
+
+## Let's try the Connect Cloud front end?
+
+{{< video cloud_pub_final.mp4 >}}
+
+## What was the cause of the original failure?
+
+Some theories:
+
+-   There was a deployment to staging when the error occurred.
+
+    -   But after discussing with the engineering team, a deployment shouldn't have caused the failure.
+
+-   So it's still TBD, but the content is now in our automated publishing tests.
+
+## The lesson we learned...
+
+-   Posit products are starting to overlap with it's features and we can use them to help debug issues we find.
