@@ -36,13 +36,13 @@ We've ruled out that the issue is with the app code and the datafile is in the s
 
 -   Posit Team Dedicated: <https://palm.ptd.posit.it/>
 
-## Colorado
+## Posit Team Dedicated
 
-{{< video connect_pub_final.mp4 >}}
+{{< video ptd_pub_final.mp4 >}}
 
 ## Let's try the Connect Cloud front end?
 
-{{< video cloud_pub_final.mp4 >}}
+{{< video connect_cloud_publish_final.mp4 >}}
 
 ## What was the cause of the original failure?
 
@@ -56,4 +56,5 @@ Some theories:
 
 ## The lesson we learned...
 
--   Posit products are starting to overlap with it's features and we can use them to help debug issues we find.
+-   Posit products are starting to have overlapping features
+-   This means it's another tool to help debug issues
