@@ -4,6 +4,26 @@ format: revealjs
 editor: visual
 ---
 
+## What is Hosted?
+
+-   Shinyapps.io - publishing destination generally for R based shinyapps
+
+-   Posit Cloud - A hosted workbench IDE
+
+-   Posit Connect Cloud - A new publishing destination.
+
+## Who is Hosted? 
+
+-   Jenn Allen
+
+-   Taner Alkaya
+
+-   Tim Yaeger
+
+-   Lawrence Mayfield
+
+-   Steve Wan
+
 ## The problem....
 
 ![](the_problem.png)
